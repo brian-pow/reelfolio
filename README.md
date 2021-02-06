@@ -1,6 +1,6 @@
 REELFOLIO is a place for filmmakers to come together, connect with other talent, showcase work and share content, and more. I developed the REELFOLIO beta and MVP versions in 2019. This included onboarding the first 200 users for testing and optimization on a fully-functional site. The project has since been taken on by a professional development team, and stands at www.reelfolio.com.
 
-Although I cannot share the code base, wanted to drop a brief description of the site here to showcase some of my experience / capabilities.
+Although I cannot share the code, wanted to drop a brief description of the site here to showcase some of my experience / capabilities.
 
 **Usage of the site allowed for the following main activities:**
 
