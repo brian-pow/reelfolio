@@ -18,7 +18,7 @@ Although I cannot share the code, wanted to drop a brief description of the site
 - Authentication was handled through Firebase Auth. Stripe was used to collect payment upon new member sign-up
 - Mailchimp was used throughout to send various e-mails (e.g., new applicant to one of your posted jobs)
 
-**Screenshots:**
+**Beta Screenshots:**
 
 ![Slide1](https://user-images.githubusercontent.com/42954670/107124260-68daf680-6868-11eb-98e7-6cd9a8852880.png)
 ![Slide2](https://user-images.githubusercontent.com/42954670/107124262-6b3d5080-6868-11eb-9c6a-af7330af282d.png)
